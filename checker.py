@@ -1,3 +1,5 @@
+"""Made by Iapetus-11"""
+
 import multiprocessing as mp
 import requests as rs
 
